@@ -20,7 +20,7 @@
         app:layout_constraintHorizontal_bias="0.51"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:autofillHints="" tools:targetApi="o" />
+        android:autofillHints="" />
 
     <EditText
         android:id="@+id/editText3"
@@ -35,7 +35,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editText"
-        android:autofillHints="" tools:targetApi="o" />
+        android:autofillHints="" />
 
     <Button
         android:id="@+id/LoginBtn"
@@ -52,7 +52,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/CreateAccBtn"
+        android:id="@+id/button2"
         android:layout_width="203dp"
         android:layout_height="38dp"
         android:layout_marginStart="104dp"
