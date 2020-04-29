@@ -52,7 +52,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/CreateAccBtn"
         android:layout_width="203dp"
         android:layout_height="38dp"
         android:layout_marginStart="104dp"
